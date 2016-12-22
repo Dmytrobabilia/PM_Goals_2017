@@ -1,0 +1,5 @@
+1. Project Management in crisis condition (risk planning)
+2. To pass through the full app development lifecycle
+3. Revealing client's requriements
+4. To gain an experince and improve skills in writing documentation on different platforms
+5. To master the PM's tool (Youtrack, Jyra, EazyErp etc.)
